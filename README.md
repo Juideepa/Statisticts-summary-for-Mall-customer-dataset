@@ -1,0 +1,1 @@
+# Statisticts-summary-for-Mall-customer-dataset
